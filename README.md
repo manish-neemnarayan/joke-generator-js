@@ -11,6 +11,6 @@ It is a mini fun application to get about **the APIs' Stuff**
 *here is the live link to the project*  
 [Joke Generator Live](joke-generator-js.vercel.app)  
 
-![Image]()
+![Image](/Image.png)
 
 
